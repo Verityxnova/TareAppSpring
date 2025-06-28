@@ -1,0 +1,5 @@
+com\tareapp\servicio\TareaService.class
+com\tareapp\TareAppSpringApplication.class
+TareaControlador\Controlador.class
+Modelo\Tarea.class
+TareaRepositorio\Repositorio.class
