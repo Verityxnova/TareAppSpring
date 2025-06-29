@@ -1,0 +1,9 @@
+com\tareapp\servicio\TareaService.class
+TareaControlador\LoginController.class
+com\tareapp\servicio\TareaServiceImpl.class
+Modelo\Usuario.class
+TareaControlador\Controlador.class
+Modelo\Tarea.class
+com\tareapp\TareAppSpringApplication.class
+TareaRepositorio\UsuarioRepository.class
+TareaRepositorio\Repositorio.class
